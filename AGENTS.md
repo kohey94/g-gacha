@@ -2,11 +2,11 @@
 
 ## Project Structure & Module Organization
 
-現時点では、リポジトリにソースコード、テスト、ビルド設定はありません。実装を追加する際は、アプリケーションコードを `src/`、テストを `tests/`、画像などの静的素材を `assets/` にまとめてください。フレームワーク固有の標準構成がある場合はそちらを優先し、テストの階層は対応する実装の階層に合わせます。新しいトップレベルディレクトリを追加したら、この文書または `README.md` に目的を記載してください。
+Next.jsのアプリケーションコードは `src/`、テストは `tests/`、要件などの文書は `docs/` にまとめます。`src/app/` に画面とRoute Handler、`src/components/` にUI部品、`src/data/` にデモ用固定データ、`src/lib/` に抽選や正規化などのロジックを配置します。テストの階層は対応する実装の階層に合わせます。新しいトップレベルディレクトリを追加したら、この文書または `README.md` に目的を記載してください。
 
 ## Build, Test, and Development Commands
 
-現在、実行可能な開発コマンドは定義されていません。言語やビルドツールを導入した際は、日常操作を単一の入口（例: `npm run dev`、`npm test`、`make build`）に集約し、`README.md` と本節を同時に更新してください。依存パッケージを追加する前に、必要な理由と標準機能などの代替案を説明します。
+`npm run dev` で開発サーバー、`npm run lint` でESLint、`npm test` で単体テスト、`npm run build` で本番ビルドを実行します。`npm run check` はlint、test、buildを順に実行する日常的な確認入口です。コマンドを変更した場合は `README.md` と本節を同時に更新してください。依存パッケージを追加する前に、必要な理由と標準機能などの代替案を説明します。
 
 ## Coding Style & Naming Conventions
 
@@ -23,3 +23,13 @@
 ## Workflow, Security & Configuration
 
 実装前に既存構成を確認し、複雑な変更は計画を共有して小さな単位で進めます。既存の仕様、UI、命名を尊重し、無関係な改修を混ぜないでください。秘密情報、API キー、端末固有設定はコミットせず、必要な環境変数は `.env.example` にダミー値で文書化し、実値を含む `.env` は無視対象にします。作業報告や設計メモは日本語で記述してください。
+
+<!-- BEGIN:nextjs-agent-rules -->
+
+## This is NOT the Next.js you know
+
+This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+
+This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
+
+<!-- END:nextjs-agent-rules -->

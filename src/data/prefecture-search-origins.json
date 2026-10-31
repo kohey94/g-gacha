@@ -1,0 +1,237 @@
+[
+  {
+    "prefectureCode": "01",
+    "latitude": 43.0626,
+    "longitude": 141.3537
+  },
+  {
+    "prefectureCode": "02",
+    "latitude": 40.6076,
+    "longitude": 140.4641
+  },
+  {
+    "prefectureCode": "03",
+    "latitude": 39.0016,
+    "longitude": 141.1008
+  },
+  {
+    "prefectureCode": "04",
+    "latitude": 38.369,
+    "longitude": 141.061
+  },
+  {
+    "prefectureCode": "05",
+    "latitude": 39.596,
+    "longitude": 140.561
+  },
+  {
+    "prefectureCode": "06",
+    "latitude": 38.312,
+    "longitude": 140.437
+  },
+  {
+    "prefectureCode": "07",
+    "latitude": 37.4878,
+    "longitude": 139.9297
+  },
+  {
+    "prefectureCode": "08",
+    "latitude": 36.3733,
+    "longitude": 140.4557
+  },
+  {
+    "prefectureCode": "09",
+    "latitude": 36.7581,
+    "longitude": 139.5988
+  },
+  {
+    "prefectureCode": "10",
+    "latitude": 36.2553,
+    "longitude": 138.8874
+  },
+  {
+    "prefectureCode": "11",
+    "latitude": 35.925,
+    "longitude": 139.4851
+  },
+  {
+    "prefectureCode": "12",
+    "latitude": 35.1601,
+    "longitude": 139.8238
+  },
+  {
+    "prefectureCode": "13",
+    "latitude": 35.7148,
+    "longitude": 139.7967
+  },
+  {
+    "prefectureCode": "14",
+    "latitude": 35.3167,
+    "longitude": 139.5357
+  },
+  {
+    "prefectureCode": "15",
+    "latitude": 37.012,
+    "longitude": 138.766
+  },
+  {
+    "prefectureCode": "16",
+    "latitude": 36.5773,
+    "longitude": 137.595
+  },
+  {
+    "prefectureCode": "17",
+    "latitude": 36.5621,
+    "longitude": 136.6625
+  },
+  {
+    "prefectureCode": "18",
+    "latitude": 36.2377,
+    "longitude": 136.125
+  },
+  {
+    "prefectureCode": "19",
+    "latitude": 35.5013,
+    "longitude": 138.8014
+  },
+  {
+    "prefectureCode": "20",
+    "latitude": 36.2387,
+    "longitude": 137.969
+  },
+  {
+    "prefectureCode": "21",
+    "latitude": 36.257,
+    "longitude": 136.906
+  },
+  {
+    "prefectureCode": "22",
+    "latitude": 35.0004,
+    "longitude": 138.5275
+  },
+  {
+    "prefectureCode": "23",
+    "latitude": 35.1856,
+    "longitude": 136.899
+  },
+  {
+    "prefectureCode": "24",
+    "latitude": 34.455,
+    "longitude": 136.725
+  },
+  {
+    "prefectureCode": "25",
+    "latitude": 35.2764,
+    "longitude": 136.2517
+  },
+  {
+    "prefectureCode": "26",
+    "latitude": 34.9949,
+    "longitude": 135.785
+  },
+  {
+    "prefectureCode": "27",
+    "latitude": 34.6873,
+    "longitude": 135.5262
+  },
+  {
+    "prefectureCode": "28",
+    "latitude": 34.8394,
+    "longitude": 134.6939
+  },
+  {
+    "prefectureCode": "29",
+    "latitude": 34.689,
+    "longitude": 135.8398
+  },
+  {
+    "prefectureCode": "30",
+    "latitude": 33.6753,
+    "longitude": 135.8875
+  },
+  {
+    "prefectureCode": "31",
+    "latitude": 35.5397,
+    "longitude": 134.229
+  },
+  {
+    "prefectureCode": "32",
+    "latitude": 35.402,
+    "longitude": 132.6855
+  },
+  {
+    "prefectureCode": "33",
+    "latitude": 34.5963,
+    "longitude": 133.7719
+  },
+  {
+    "prefectureCode": "34",
+    "latitude": 34.2959,
+    "longitude": 132.3199
+  },
+  {
+    "prefectureCode": "35",
+    "latitude": 34.1676,
+    "longitude": 132.1784
+  },
+  {
+    "prefectureCode": "36",
+    "latitude": 33.8756,
+    "longitude": 133.8345
+  },
+  {
+    "prefectureCode": "37",
+    "latitude": 34.3295,
+    "longitude": 134.0442
+  },
+  {
+    "prefectureCode": "38",
+    "latitude": 33.852,
+    "longitude": 132.7864
+  },
+  {
+    "prefectureCode": "39",
+    "latitude": 33.4972,
+    "longitude": 133.5748
+  },
+  {
+    "prefectureCode": "40",
+    "latitude": 33.5215,
+    "longitude": 130.5348
+  },
+  {
+    "prefectureCode": "41",
+    "latitude": 33.3232,
+    "longitude": 130.3832
+  },
+  {
+    "prefectureCode": "42",
+    "latitude": 32.7348,
+    "longitude": 129.8697
+  },
+  {
+    "prefectureCode": "43",
+    "latitude": 32.8062,
+    "longitude": 130.7058
+  },
+  {
+    "prefectureCode": "44",
+    "latitude": 33.315,
+    "longitude": 131.4692
+  },
+  {
+    "prefectureCode": "45",
+    "latitude": 32.702,
+    "longitude": 131.301
+  },
+  {
+    "prefectureCode": "46",
+    "latitude": 31.6176,
+    "longitude": 130.5778
+  },
+  {
+    "prefectureCode": "47",
+    "latitude": 26.217,
+    "longitude": 127.7195
+  }
+]
